@@ -1,2 +1,2 @@
-# EllenOehmlerSegmentation
+# Tumors
 Independent study
